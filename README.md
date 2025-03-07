@@ -1,2 +1,7 @@
 # XSF_symm
-Correct XSF wave function to symmetrical 
+
+Program reads wave function in XSF file created by Yambo and corrects wave function to symmetrical form.
+
+How to use:
+
+> xsf_symm name.xsf
